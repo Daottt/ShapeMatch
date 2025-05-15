@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10c680e033bbde04fb2cacff049214af, type: 3}
+  m_Name: Eel
+  m_EditorClassIdentifier: 
+  PossibleShapePrefabs:
+  - {fileID: 6726468834725536252, guid: 45f3ae761e669134db2f8130b6608e63, type: 3}
+  - {fileID: 7775093460563527216, guid: d21fbf94c53767640bd09f0a5c3c27a0, type: 3}
+  - {fileID: 5679768042851982179, guid: 4840d6f2853fa6c47b882a38aa69b2a6, type: 3}
+  ShapeColor: {r: 0.627451, g: 0.78431374, b: 0.47058824, a: 1}
+  OutlineColor: {r: 0.15294118, g: 0.4, b: 0.48235294, a: 1}
+  Image: {fileID: 21300000, guid: 7a24f98db9dd83146b4ebe1e11dc509b, type: 3}
+  ImageColor: {r: 0.8666667, g: 0.92156863, b: 0.6156863, a: 1}
+  SelectedOutline: {r: 0.92549026, g: 0.93725497, b: 0.79215693, a: 1}
